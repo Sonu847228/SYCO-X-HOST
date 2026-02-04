@@ -1,6 +1,0 @@
-telethon
-supabase
-python-dotenv
-colorama
-pycryptodome
-cryptography
